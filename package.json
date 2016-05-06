@@ -1,0 +1,12 @@
+{
+    "name"         : "ConspiracyChris",
+    "version"      : "1.0.0",
+    "description"  : "What's going on with the Presidents??",
+    "main"         : "scrape.js",
+    "author"       : "Dot Slash CS",
+    "dependencies" : {
+        "express"    : "latest",
+        "request"    : "latest",
+        "cheerio"    : "latest"
+    }
+}
