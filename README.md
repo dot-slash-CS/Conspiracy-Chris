@@ -1,5 +1,5 @@
 # Conspiracy-Chris
-Web Scraping!
+A demonstration of web scraping, using Wikipedia.
 
-To run, install [Node.js](https://nodejs.org/en/).
+To run, first install [Node.js](https://nodejs.org/en/).
 Use `node scrape.js`.
